@@ -1,0 +1,60 @@
+ <p style="margin:0; font-size:16px; font-family: Montserrat;">Regards,</p>
+<table cellpadding="0" cellspacing="0" border="0" style="font-family: Montserrat; color:#000000; width:600px;">
+  <tr>
+    <td style="padding:0 10px 0 0; vertical-align:middle;">
+     
+<img src="https://github.com/Binstha/Email-Siganture/blob/main/Logo.png?raw=true" alt="Logo" width="80" style="display:block; margin-top:8px; padding-bottom:40px">
+    </td>
+    
+    <td style="border-right:2px solid #b81f24; padding-left:20px; padding-bottom:40px; vertical-align:middle;">
+      <p style="margin:0; font-size:18px; font-weight:bold;">Mahadev <span style="font-weight:normal;">Dhanuk</span></p>
+      <p style="margin:0; padding-bottom: 10px; font-size:15px;">Senior Sales Agent</p>
+      <p style="margin:8px 0 0 0; font-size:14px;">0433 898 829</p>
+      <p style="margin:4px 0 0 0; font-size:14px;"><a href="mailto:mahadev@homehivere.com.au" style="color:#000; text-decoration:none;">mahadev@homehivere.com.au</a></p>
+      <p><p>
+    </td>
+
+    <td style="padding-left:20px; vertical-align:middle;">
+      <table cellpadding="1" cellspacing="8" border="0" style="font-size:14px;">
+        <tr>
+          <td><img src="https://github.com/Binstha/Email-Siganture/blob/main/phone_icon.png?raw=true" width="18" alt="Phone"></td>
+          <td>0433 898 829</td>
+        </tr>
+        <tr>
+          <td><img src="https://github.com/Binstha/Email-Siganture/blob/main/web.png?raw=true" width="18" alt="Website"></td>
+          <td><a href="https://www.homehivere.com.au" style="color:#000; text-decoration:none;">www.homehivere.com.au</a></td>
+        </tr>
+        <tr>
+          <td><img src="https://github.com/Binstha/Email-Siganture/blob/main/location.png?raw=true" width="18" alt="Location"></td>
+          <td>23 Pascoe Vale Road,<br>Glenroy, VIC 3046</td>
+        </tr>
+         <tr>
+          <td></td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <!-- Horizontal line -->
+  <tr>
+    <td colspan="3" style="padding-top:0px; border-bottom:1px solid #b81f24;"></td>
+  </tr>
+
+  <!-- Social icons -->
+<!-- Social icons -->
+<tr>
+  <td colspan="3" align="center" style="padding-top:10px;">
+    <a href="https://facebook.com" style="margin:0 6px; display:inline-block;">
+      <img src="https://github.com/Binstha/Email-Siganture/blob/main/Facebook.png?raw=true" width="28" alt="Facebook" style="display:block; border:none;">
+    </a>
+    <a href="https://instagram.com" style="margin:0 6px; display:inline-block;">
+      <img src="https://github.com/Binstha/Email-Siganture/blob/main/Insta.png?raw=true" width="28" alt="Instagram" style="display:block; border:none;">
+    </a>
+    <a href="https://tiktok.com" style="margin:0 6px; display:inline-block;">
+      <img src="https://github.com/Binstha/Email-Siganture/blob/main/Tiktol.png?raw=true" width="28" alt="TikTok" style="display:block; border:none;">
+    </a>
+  </td>
+</tr>
+
+</table>

@@ -36,25 +36,28 @@
     </td>
   </tr>
 
-  <!-- Horizontal line -->
-  <tr>
-    <td colspan="3" style="padding-top:0px; border-bottom:1px solid #b81f24;"></td>
-  </tr>
-
-  <!-- Social icons -->
-<!-- Social icons -->
+<!-- Horizontal line -->
 <tr>
-  <td colspan="3" align="center" style="padding-top:10px;">
-    <a href="https://facebook.com" style="margin:0 6px; display:inline-block;">
-      <img src="https://github.com/Binstha/Email-Siganture/blob/main/Facebook.png?raw=true" width="28" alt="Facebook" style="display:block; border:none;">
-    </a>
-    <a href="https://instagram.com" style="margin:0 6px; display:inline-block;">
-      <img src="https://github.com/Binstha/Email-Siganture/blob/main/Insta.png?raw=true" width="28" alt="Instagram" style="display:block; border:none;">
-    </a>
-    <a href="https://tiktok.com" style="margin:0 6px; display:inline-block;">
-      <img src="https://github.com/Binstha/Email-Siganture/blob/main/Tiktol.png?raw=true" width="28" alt="TikTok" style="display:block; border:none;">
-    </a>
+  <td colspan="3" style="position: relative; padding: 0;">
+
+    <!-- Line -->
+    <div style="border-bottom: 1px solid #b81f24; width: 100%; height: 1px;"></div>
+
+    <!-- Social icons overlapping the line -->
+    <div style="position: absolute; left: 55%; transform: translateX(70%); top: -14px; background-color: #ffffff; padding-left: 10px;">
+      <a href="https://facebook.com" style="margin:0 4px; display:inline-block;">
+        <img src="https://github.com/Binstha/Email-Siganture/blob/main/Facebook.png?raw=true" width="24" alt="Facebook" style="display:block; border:none;">
+      </a>
+      <a href="https://instagram.com" style="margin:0 4px; display:inline-block;">
+        <img src="https://github.com/Binstha/Email-Siganture/blob/main/Insta.png?raw=true" width="24" alt="Instagram" style="display:block; border:none;">
+      </a>
+      <a href="https://tiktok.com" style="margin:0 4px; display:inline-block;">
+        <img src="https://github.com/Binstha/Email-Siganture/blob/main/Tiktol.png?raw=true" width="24" alt="TikTok" style="display:block; border:none; padding-right:10px;">
+      </a>
+    </div>
+
   </td>
 </tr>
+
 
 </table>
